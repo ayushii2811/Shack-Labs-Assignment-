@@ -4,7 +4,7 @@ import tensorflow_hub as hub
 from sklearn.metrics.pairwise import cosine_similarity
 import pickle
 import warnings
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 warnings.filterwarnings('ignore')
 from operator import add
 
