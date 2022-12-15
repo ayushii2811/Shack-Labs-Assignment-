@@ -1,6 +1,7 @@
 import numpy as np 
 import pandas as pd
 import tensorflow_hub as hub
+import sklearn
 from sklearn.metrics.pairwise import cosine_similarity
 import pickle
 import warnings
